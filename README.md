@@ -1,4 +1,4 @@
-# 👨‍🎓 도시의 공기질 데이터
+# 👨‍🎓 고등학생 학업 정보 데이터
 ## 📃 데이터셋 소개
 - 고등학생의 학업 성공 요인을 분석하기 위한 학생 정보 데이터셋
 - 데이터 출처: https://www.kaggle.com/datasets/rabieelkharoua/students-performance-dataset
